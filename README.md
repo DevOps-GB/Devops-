@@ -16,7 +16,7 @@
    ```bash
    git add README.md
    ```
-1. commiting 
+1. commiting "save files in git" 
    ```bash
    git commit -m "first commit"
    ```
