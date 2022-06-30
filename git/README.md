@@ -52,7 +52,7 @@
    ``` 
 * # switch between branches  
    ```bash
-   git cheackout dev2 
+   git checkout dev2 
    ```
 * # deleting a local branch 
     ```bash
@@ -60,7 +60,7 @@
    ```
 * # deleting a remote branch 
     ```bash
-   git push origin --delet dev2
+   git push origin --delete dev2
     ```
 * # adding all files 
     ```bash
@@ -97,3 +97,8 @@
    git commit -m "note"
    git push 
     ```
+* # for delete file or folder  
+    ```bash 
+   git rm -r foldername
+   git commit -m "delete folder"
+   ```
