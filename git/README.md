@@ -91,7 +91,9 @@
     ```bash 
    code .
     ```
-1. creat a folder (directory)
+* # for any edit 
     ```bash 
-   mkdir dev
+   git add .
+   git commit -m "note"
+   git push 
     ```
